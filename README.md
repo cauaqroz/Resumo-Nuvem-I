@@ -43,8 +43,8 @@
 
 # Questões AZ-900T00-A
 
-> 1. O que é a computação em nuvem?
-- Entrega de serviços de computação pela Internet.
+-  1. O que é a computação em nuvem?
+  >  Entrega de serviços de computação pela Internet.
 
 > 2. Qual modelo de nuvem usa alguns datacenters focados em fornecer serviços de nuvem para quem quiser e alguns data centers que estão focados em um único cliente?
 - Nuvem híbrida.
