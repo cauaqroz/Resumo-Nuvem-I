@@ -148,7 +148,7 @@
 
 > Azure Cosmos DB para NoSQL
 
-- 17.Qual API do Azure Cosmos DB deve ser usada para trabalhar com aqueles dados nos quais as entidades e as relações entre elas são representadas em um grafo usando vértices e bordas? 
+- 17. Qual API do Azure Cosmos DB deve ser usada para trabalhar com aqueles dados nos quais as entidades e as relações entre elas são representadas em um grafo usando vértices e bordas? 
 
 > Azure Cosmos DB for Apache Gremlin
 
